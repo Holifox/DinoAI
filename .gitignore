@@ -1,0 +1,4 @@
+*.log 
+__pycache__
+1.py
+canvas.png
